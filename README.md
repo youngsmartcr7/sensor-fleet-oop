@@ -1,0 +1,1 @@
+This is my first practice problem on OOP review, to test my previous knowledge. it is a program that takes different humidity and teperature readings and return its average.
